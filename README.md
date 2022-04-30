@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi I'm Ishini Hathurusinghe 👋
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently studing in Sri lanka International Buddhist Academy
 - 🌱 I’m currently learning  a Bachelor of Science in Information Technology
@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 0767507263 (whatsapp) / ishinihathurusinghe@gmail.com
 - 😄 Pronouns: ishinihathurusinghe
 - Rank : https://stardev.io/developers/ishinihathurusinghe
+- <img src="https://github-readme-stats.vercel.app/api?username=ishinihathurusinghe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
