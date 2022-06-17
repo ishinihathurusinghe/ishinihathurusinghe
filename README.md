@@ -3,12 +3,10 @@
 
 
    Student of Sri Lanka International Buddhist Academy (SIBA)
-   
-   
    Past Student of Mahamaya Girls' College Kandy
 
 
-
+   About Me!
 - 🔭 I’m currently studing in Sri lanka International Buddhist Academy
 - 🌱 I’m currently learning  a Bachelor of Science in Information Technology
 - 👯 I’m looking to collaborate with who need my help
