@@ -2,6 +2,9 @@
 
 
 
+   Student of Sri Lanka International Buddhist Academy (SIBA)
+   Past Student of Mahamaya Girls' College Kandy
+
 
 
 - 🔭 I’m currently studing in Sri lanka International Buddhist Academy
