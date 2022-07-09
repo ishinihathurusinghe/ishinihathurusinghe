@@ -30,3 +30,5 @@
 
 
 <a href="https://stardev.io/developers/ishinihathurusinghe"><img alt="Check out ishinihathurusinghe's profile on stardev.io" src="https://stardev.io/developers/ishinihathurusinghe/badge/languages/locality.svg" /></a>
+
+[![ishinihathurusinghe's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ishinihathurusinghe&theme=blue-green)]
