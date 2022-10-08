@@ -20,6 +20,7 @@
 - My Online Projects
 
   - https://github.com/ishinihathurusinghe/Simple-Website
+  - https://github.com/ishinihathurusinghe/Minor--static-web-site-
  
  <img src="https://github-readme-stats.vercel.app/api?username=ishinihathurusinghe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
