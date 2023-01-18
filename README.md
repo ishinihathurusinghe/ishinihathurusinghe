@@ -74,6 +74,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishinihathurusinghe&theme=github_dark"/>
   </td>
  </tr>
+ <tr>
+  <td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishinihathurusinghe&theme=github_dark"/>
+  </td>
+  <td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishinihathurusinghe&theme=github_dark"/>
+  </td>
+ </tr>
 </table>
   
  
@@ -93,8 +101,8 @@
 
 
 
-[![ishinihathurusinghe's github activity graph](https://activity-graph.herokuapp.com/graph?username=ishinihathurusinghe&theme=gotham)](https://github.com/ishinihathurusinghe/github-readme-activity-graph&theme=github)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishinihathurusinghe&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishinihathurusinghe&theme=github_dark"/>
+
+
+
