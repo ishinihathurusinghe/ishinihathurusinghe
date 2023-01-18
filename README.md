@@ -82,6 +82,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishinihathurusinghe&theme=github_dark"/>
   </td>
  </tr>
+ <tr>
+  <td align="center">
+   ![ishinihathurusinghe's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ishinihathurusinghe&theme=blue-green)
+  </td>
+ </tr>
 </table>
   
  
@@ -95,7 +100,7 @@
 
 
 
-![ishinihathurusinghe's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ishinihathurusinghe&theme=blue-green)
+
 
 
 
