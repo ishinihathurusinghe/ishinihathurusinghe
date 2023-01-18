@@ -84,7 +84,7 @@
  </tr>
  <tr>
   <td align="center">
-   ![ishinihathurusinghe's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ishinihathurusinghe&theme=blue-green)
+   [ishinihathurusinghe's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ishinihathurusinghe&theme=blue-green)
   </td>
  </tr>
 </table>
