@@ -13,7 +13,7 @@
   <tr>
     <td><p><img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4" style="width:200px;"></p></td>
     <td>      
-       :desktop_computer: Founder of JKCSS - CSS Framework <br><br>
+       :desktop_computer: Co-Founder of JKCSS - CSS Framework <br><br>
        :computer: Developer of JKCSS <br><br>
        :calling: Mobile  +94 76 750 7263 <br><br>
        :sri_lanka: Sri Lanka  <br><br>        
