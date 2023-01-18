@@ -75,10 +75,10 @@
   </td>
  </tr>
  <tr>
-  <td>
+  <td align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishinihathurusinghe&theme=github_dark"/>
   </td>
-  <td>
+  <td align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishinihathurusinghe&theme=github_dark"/>
   </td>
  </tr>
