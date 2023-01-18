@@ -42,21 +42,10 @@
  </tr>
 </table>
 
+<h1>Most active GitHub users in Sri Lanka</h1>
 
-   Student of Sri Lanka International Buddhist Academy (SIBA)
-   
-   Past Student of Mahamaya Girls' College Kandy
+[Ranking](https://commits.top/sri_lanka_public.html)
 
-
-   About Me!
-- 🔭 I’m currently studing in Sri lanka International Buddhist Academy
-- 🌱 I’m currently learning  a Bachelor of Science in Information Technology
-- 👯 I’m looking to collaborate with who need my help
-- 🤔 I’m looking for help with Android Development
-- 💬 Ask me about anything in developing
-- 📫 How to reach me: 0767507263 (whatsapp) / ishinihathurusinghe@gmail.com
-- 😄 Pronouns: ishinihathurusinghe
-- Rank : https://stardev.io/developers/ishinihathurusinghe
 
 - My Online Projects
 
@@ -65,12 +54,27 @@
   - https://github.com/ishinihathurusinghe/web-application
   - https://github.com/ishinihathurusinghe/2d-Game
  
- <img src="https://github-readme-stats.vercel.app/api?username=ishinihathurusinghe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
  
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishinihathurusinghe&show_icons=true&theme=radical">
+
  
  
+<table>
+ <tr>
+  <td>
+   <img src="https://github-readme-stats.vercel.app/api?username=ishinihathurusinghe&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  </td>
+  <td>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishinihathurusinghe&show_icons=true&theme=radical">
+  </td>
+ </tr>
+ <tr>
+  <td  colspan="2" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishinihathurusinghe&theme=github_dark"/>
+  </td>
+ </tr>
+</table>
   
  
 
@@ -87,7 +91,7 @@
 
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishinihathurusinghe&theme=github_dark"/>
+
 
 [![ishinihathurusinghe's github activity graph](https://activity-graph.herokuapp.com/graph?username=ishinihathurusinghe&theme=gotham)](https://github.com/ishinihathurusinghe/github-readme-activity-graph&theme=github)
 
