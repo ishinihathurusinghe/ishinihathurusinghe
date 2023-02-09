@@ -53,6 +53,7 @@
   - https://github.com/ishinihathurusinghe/Minor--static-web-site-
   - https://github.com/ishinihathurusinghe/web-application
   - https://github.com/ishinihathurusinghe/2d-Game
+  - https://github.com/ishinihathurusinghe/laravel-crud
  
 
  
