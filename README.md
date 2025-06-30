@@ -4,11 +4,12 @@
   <tr>
     <td><p><img src="https://avatars.githubusercontent.com/u/101358580?v=4" style="width:200px;"></p></td>
     <td>      
-       :man_student: I’m currently studying in Sri Lanka International Buddhist Academy (SIBA) <br><br>
-       :mortar_board: I’m currently following A Bachelor of Science in Information Technology <br><br>
-       :school: Past Student of Mahamaya girls' college kandy. <br><br>
-       :e-mail: Email / ishinihathurusinghe@gmail.com  <br><br>   
-    </td>
+   💼 Currently working as a Demonstrator  <br><br>
+   📊 Pursuing a Master of Science in Data Science. <br><br>
+   ⚖️ Started reading for a Bachelor of Laws (LL.B.) degree. <br><br>
+   🏫 Past student of Mahamaya Girls' College, Kandy. <br><br>
+   📧 Email: ishinihathurusinghe@gmail.com <br><br>   
+</td>
   </tr>
   
 </table>
